@@ -1,36 +1,24 @@
+# 🛍 Jawfex – E-commerce Website Template
 
-TITLE: 
-Jawfex - Bootstrap 4 template built by GetTemplates.co
+A modern and responsive e-commerce website landing page built using HTML5, CSS3, and Bootstrap. Designed for showcasing products, categories, and promotional banners in a clean layout.
 
-AUTHOR:
-DESIGNED & DEVELOPED by KomalAslam.co and FreeHTML5.co
+## 🚀 Live Demo
+🔗 [View Website](https://komal-aslam.github.io/Jawfex-website-template/)
 
-Websites: https://komalaslam.co https://freehtml5.co/
+## 🛠️ Built With
+- HTML5
+- CSS3
+- Bootstrap 4
+- Responsive Design Techniques
 
+## 📸 Screenshots
+![Jawfex Screenshot](screenshot.png) <!-- Replace with actual screenshot file -->
 
-CREDITS:
+## ✨ Features
+- Mobile-first responsive layout
+- Clean product grid & categories
+- Header banner & footer section
+- Modern UI design
 
-Komal
-http://komalaslam.com/
-
-jQuery
-http://jquery.com/
-
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-Isotope
-https://isotope.metafizzy.co
-
-Select2
-https://select2.org
-
-Stellar
-http://markdalgleish.com/projects/stellar.js/
-
-Lightcase
-https://cornel.bopp-art.com/lightcase/
-
-Demo Images:
-http://unsplash.com
+## 📁 Folder Structure
 
